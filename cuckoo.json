@@ -895,7 +895,7 @@
     },
     "267": {
       "title": "I’m Not Used to Tokyo Life Yet",
-      "volume": "30",
+      "volume": "31",
       "last_updated": "1758639600",
       "groups": {
         "KManga": "/proxy/api/imgchest/chapter/m9yx36jjkyq"
@@ -907,6 +907,14 @@
       "last_updated": "1759244400",
       "groups": {
         "KManga": "/proxy/api/imgchest/chapter/qe4gwoajj7j"
+      }
+    },
+    "269": {
+      "title": "I Finally Got to Talk to Hiro-chan…!!",
+      "volume": "31",
+      "last_updated": "1759849200",
+      "groups": {
+        "KManga": "/proxy/api/imgchest/chapter/qe4gmlbjk4j"
       }
     }
 }
