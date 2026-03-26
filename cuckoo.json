@@ -1,10 +1,18 @@
 {
-  "title": "Kakkou no Iinazuke",
+  "title": "A Couple of Cuckoos",
   "description": "16-year-old super-studier Nagi Umino, second-year student at the Meguro River Academy high school, was switched at birth. On his way to a dinner to meet his birth parents, he accidentally meets the brash, outspoken, Erika Amano, who is determined to make Nagi her fake boyfriend as she never wants to actually marry. But once Nagi makes it to dinner, he finds his parents have decided to resolve the hospital switch by conveniently having him marry the daughter his birth parents raised...who turns out to be none other than Erika herself!",
   "artist": "Miki Yoshikawa",
   "author": "Miki Yoshikawa",
   "cover": "https://i.imgur.com/M9y4YzL.jpeg",
   "chapters": {
+    "155": {
+      "title": "Yup! You're Nagi-kun, Alright!",
+      "volume": "18",
+      "last_updated": "1774541259",
+      "groups": {
+        "KManga": "/proxy/api/weebcentral/chapter/01J76XYD84FKQ5M54T1NC9TPJ0/155"
+      }
+    },
     "156": {
       "title": "That's Weird, Isn't It…?",
       "volume": "18",
@@ -44,7 +52,7 @@
       "groups": {
         "KManga": "/proxy/api/imgur/chapter/BQQmAcD"
       }
-  },
+    },
     "161": {
       "title": "Say What You Really Mean!!!",
       "volume": "19",
@@ -84,7 +92,7 @@
       "groups": {
         "KManga": "/proxy/api/imgur/chapter/2nV120m"
       }
-  },
+    },
     "166": {
       "title": "I Wonder if This is What it Means to Grow Up",
       "volume": "19",
@@ -109,7 +117,7 @@
         "KManga": "/proxy/api/imgchest/chapter/vj4jd8mdx48"
       }
     },
-     "169": {
+    "169": {
       "title": "Can we go back to being friends?",
       "volume": "20",
       "last_updated": "1691508256",
@@ -261,7 +269,7 @@
         "KManga": "/proxy/api/imgchest/chapter/vj4jd592348"
       }
     },
-     "188": {
+    "188": {
       "title": "What About You?!!",
       "volume": "22",
       "last_updated": "1705416964",
@@ -565,7 +573,7 @@
         "KManga": "/proxy/api/imgchest/chapter/dl7p9mmv34o"
       }
     },
-     "226": {
+    "226": {
       "title": "Is This Something An Adult Would Do…?",
       "volume": "26",
       "last_updated": "1730214000",
@@ -605,7 +613,7 @@
         "KManga": "/proxy/api/imgchest/chapter/9249dgwqa7n"
       }
     },
-     "231": {
+    "231": {
       "title": "Why Don’t You Go to Sleep Too, Nagi-kun?",
       "volume": "26",
       "last_updated": "1733842800",
@@ -829,7 +837,7 @@
         "KManga": "/proxy/api/imgchest/chapter/a8465n2woyx"
       }
     },
-     "259": {
+    "259": {
       "title": "Just Think About It, Erika",
       "volume": "30",
       "last_updated": "1753196400",
@@ -957,7 +965,7 @@
         "KManga": "/proxy/api/imgchest/chapter/9rydqk5nl4k"
       }
     },
-     "275": {
+    "275": {
       "title": "It Had the Same Flavor as Back Then",
       "volume": "31",
       "last_updated": "1764082800",
@@ -1085,5 +1093,5 @@
         "KManga": "/proxy/api/imgchest/chapter/vj4j6l63xy8"
       }
     }
-}
+  }
 }
